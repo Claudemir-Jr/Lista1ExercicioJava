@@ -31,4 +31,5 @@ public class Exercicio22 {
 				//a = 5, b = 6, c = 7 (Triângulo acutângulo)
 				//a = 1, b = 1, c = 1 (Triângulo equilátero)
 				//a = 2, b = 3, c = 4 (Triângulo escaleno)
+				//teste
 
